@@ -1,13 +1,9 @@
-![Mason Andrews, Cyber Security Student 👨‍💻](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![Mason Andrews](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
 
-<h1 align="center">Mason Andrews, Cyber Security Student 👨‍💻</h1>
+<h1 align="center">Mason Andrews</h1>
 
 **<h3 align="center">Connect with me:</h3>** 
-<p align="center"><a href="https://github.com/psychothemia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.reddit.com/user/cnx" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="32" style="margin-right: 12px"></a> <a href="https://www.linkedin.com/in/m4s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
-
----
-
- **<h3 align="center">Currently attending university, in my third year of study to attain my Bachelor of Cyber Security. Current qualifications include two certifications accredited by Google in the AI Essentials course, and the Cyber Security Professional course. </h3>**
+<p align="center"><a href="https://github.com/psychothemia" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="32" style="margin-right: 12px"> <a href="https://www.linkedin.com/in/m4s" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" style="margin-right: 12px"></a></p>
 
 ---
 
